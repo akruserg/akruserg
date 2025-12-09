@@ -29,9 +29,10 @@
 ### 📊 GitHub Stats
 <div align="center">
   
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akruserg&show_icons=true&theme=dark&hide_border=true&title_color=D6B253&text_color=FFFFFF&bg_color=1a1a1a&icon_color=D6B253)
+[![GitHub followers](https://img.shields.io/github/followers/akruserg?label=Followers&style=for-the-badge)](https://github.com/akruserg)
+[![GitHub stars](https://img.shields.io/github/stars/akruserg?style=for-the-badge)](https://github.com/akruserg)
+[![Top language](https://img.shields.io/github/languages/top/akruserg?style=for-the-badge)](https://github.com/akruserg)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akruserg&layout=compact&theme=dark&hide_border=true&title_color=D6B253&text_color=FFFFFF&bg_color=1a1a1a)
 
 </div>
 
