@@ -29,7 +29,7 @@
 ### 📊 GitHub Stats
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akruserg&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akruserg)](https://git.io/streak-stats)
 
 </div>
 
