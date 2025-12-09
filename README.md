@@ -29,22 +29,8 @@
 ### 📊 GitHub Stats
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akruserg&layout=compact&theme=dracula&hide_border=true&title_color=D6B253&text_color=FFFFFF&bg_color=1a1a1a)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akruserg&show_icons=true&theme=dracula&hide_border=true&title_color=D6B253&text_color=FFFFFF&bg_color=1a1a1a&icon_color=D6B253)
+![GitHub Streak](https://streak-stats.demolab.com?user=akruserg&theme=highcontrast&hide_border=true&background=1a1a1a&stroke=D6B253&ring=D6B253&fire=D6B253&currStreakLabel=D6B253)
 
 </div>
-
----
-
-### ✨ Связь и сотрудничество
-📩 Telegram: **@akruserg**  
-📧 Email: *(добавь)*
-
-💬 Открыт для — проектов, партнёрства, разработки под ключ
-
----
-
-**Если делаешь — делай премиально.**
 
 </div>
