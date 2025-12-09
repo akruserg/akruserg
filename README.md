@@ -29,10 +29,7 @@
 ### 📊 GitHub Stats
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/akruserg?label=Followers&style=for-the-badge)](https://github.com/akruserg)
-[![GitHub stars](https://img.shields.io/github/stars/akruserg?style=for-the-badge)](https://github.com/akruserg)
-[![Top language](https://img.shields.io/github/languages/top/akruserg?style=for-the-badge)](https://github.com/akruserg)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akruserg&show_icons=true&theme=radical)
 
 </div>
 
