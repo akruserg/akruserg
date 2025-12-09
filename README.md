@@ -1,5 +1,9 @@
 <div align="center">
+
 ### 💼 Чем я занимаюсь
+
+</div>
+
 | Направление | Описание |
 |------------|----------|
 | 🌐 Websites | Лендинги, корпоративные сайты, CRM |
@@ -8,14 +12,12 @@
 
 ---
 
+<div align="center">
+
 ### 🛠 Технологии
 `Python` `FastAPI` `Flask` `PuthonTelegramBot`  
 `JavaScript` `Node.js` `Vue / React`  
 `SQLite` `PostgreSQL`  
 `REST API` `JWT`
-
----
-
-</div>
 
 </div>
