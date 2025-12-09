@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ **hi**
+# **hi**
 ### Премиум разработка — сайты • проекты • Telegram-боты
 
 🚀 Создаю решения, которые увеличивают прибыль  
@@ -25,11 +25,6 @@
 `REST API` `JWT`
 
 ---
-
-### 📊 GitHub Stats
-<div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 </div>
 
