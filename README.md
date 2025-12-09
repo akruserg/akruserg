@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ### 💼 Чем я занимаюсь
@@ -20,5 +21,14 @@
 <td>Авторизация, аналитика, управление</td>
 </tr>
 </table>
+
+</div>
+<div align="center">
+
+### 🛠 Технологии
+`Python` `FastAPI` `Flask` `PuthonTelegramBot`  
+`JavaScript` `Node.js` `Vue / React`  
+`SQLite` `PostgreSQL`  
+`REST API` `JWT`
 
 </div>
