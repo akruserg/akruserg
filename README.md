@@ -29,7 +29,7 @@
 </tr>
 <tr>
 <td>🧩 Системы</td>
-<td>Авторизация, аналитика, управление</td>
+<td>JWT/WebAuthn-авторизация, отчёты (PDF/Excel), фоновые задачи</td>
 </tr>
 </table>
 
@@ -37,10 +37,11 @@
 <div align="center">
 
 ### 🛠 Технологии
-`Python` `FastAPI` `Flask` `PuthonTelegramBot`  
-`JavaScript` `Node.js` `Vue / React`  
-`SQLite` `PostgreSQL`  
-`REST API` `JWT`
+`Python` `FastAPI` `Flask` `python-telegram-bot`  
+`Pydantic` `JWT` `WebAuthn`  
+`JavaScript` `Vue`  
+`PostgreSQL` `SQLite`  
+`REST API` `APScheduler` `Pandas`
 
 </div>
 
