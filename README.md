@@ -2,7 +2,7 @@
 
 # 👋 Привет, я Руслан
 
-### Backend / Full-stack разработчик — Python, Telegram-боты, веб-сервисы
+### Python-разработчик: Telegram-боты и backend/API для бизнеса
 
 [![Telegram](https://img.shields.io/badge/Telegram-@akruserg-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akruserg)
 [![Email](https://img.shields.io/badge/Email-ruslan%40akimovvv.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruslan@akimovvv.ru)
@@ -12,36 +12,52 @@
 
 <div align="center">
 
-### 💼 Чем я занимаюсь
+### 🎯 Специализация
 
 <table>
 <tr>
-<th>Направление</th>
-<th>Описание</th>
-</tr>
-<tr>
-<td>🌐 Websites</td>
-<td>Лендинги, корпоративные сайты, CRM</td>
-</tr>
-<tr>
-<td>🤖 Telegram Bots</td>
-<td>Автоматизация, интеграции, сервисы</td>
-</tr>
-<tr>
-<td>🧩 Системы</td>
-<td>JWT/WebAuthn-авторизация, отчёты (PDF/Excel), фоновые задачи</td>
+<td width="50%" valign="top">
+
+**🤖 Telegram-боты**
+- Диалоговые сценарии и FSM
+- Вебхуки, интеграции, рассылки
+- Фоновые задачи (APScheduler)
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ Backend / API**
+- FastAPI, Flask, REST
+- JWT / WebAuthn-авторизация
+- Генерация отчётов (PDF, Excel)
+
+</td>
 </tr>
 </table>
 
 </div>
 <div align="center">
 
-### 🛠 Технологии
-`Python` `FastAPI` `Flask` `python-telegram-bot`  
-`Pydantic` `JWT` `WebAuthn`  
-`JavaScript` `Vue`  
-`PostgreSQL` `SQLite`  
-`REST API` `APScheduler` `Pandas`
+### 🛠 Стек
+
+**Боты** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Telegram](https://img.shields.io/badge/python--telegram--bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+
+**Backend** &nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Данные** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Frontend** &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
 </div>
 
