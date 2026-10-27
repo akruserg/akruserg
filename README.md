@@ -2,7 +2,10 @@
 
 # 👋 Привет, я Руслан
 
-### Backend / Full-stack разработчик — Python, Telegram-боты, веб-сервисы
+### Full-stack разработчик с опытом коммерческой разработки — сайты, CRM, Telegram-боты и сервисы на Python
+
+Несколько лет делаю проекты на заказ: от лендингов и корпоративных сайтов до CRM и автоматизации на Telegram-ботах.
+Сейчас, помимо коммерческих заказов, разрабатываю **ToeflAI** — сервис подготовки к экзаменам на базе AI-агентов.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@akruserg-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/akruserg)
 [![Email](https://img.shields.io/badge/Email-ruslan%40akimovvv.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruslan@akimovvv.ru)
@@ -12,7 +15,7 @@
 
 <div align="center">
 
-### 💼 Чем я занимаюсь
+### 💼 С чем работаю
 
 <table>
 <tr>
